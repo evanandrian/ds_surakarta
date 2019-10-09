@@ -8,6 +8,5 @@ done
 git pull
 "E:\ds_surakarta\DesktopService.exe" $1 &
 
-start chrome http://172.16.0.217:2222/app/Login
-
+#start chrome http://192.168.1.110:2222/app/Login
 
