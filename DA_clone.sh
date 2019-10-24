@@ -1,2 +1,2 @@
 #!/bin/bash
-git clone https://github.com/evanadnrian/display_surakarta.git
+git clone https://github.com/evanandrian/display_surakarta.git
