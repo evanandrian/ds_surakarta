@@ -1,2 +1,2 @@
 #!/bin/bash
-git clone https://github.com/agussustian2017/DisplayPendaftaran_mataram.git
+git clone https://github.com/evanadnrian/display_surakarta.git
