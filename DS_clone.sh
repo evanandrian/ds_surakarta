@@ -1,2 +1,2 @@
 #!/bin/bash
-git clone https://github.com/evanandrian/ds_surakarta.git
+git clone https://github.com/evanandrian/ds_merahputih.git
