@@ -8,4 +8,4 @@ done
 git pull
 "D:\ds_surakarta\DesktopService.exe" $1 &
 
-start chrome http://192.168.1.110:4300
+start chrome http://192.168.1.120:4300
